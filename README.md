@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [WalletFinder](https://github.com/xONEIROS/wallet-finder)
 
-- 🤝 I’m try looking for help with CM 
+- 🤝 I’m try looking for help with [AutoComplete-TasksForGalxe](https://github.com/xONEIROS/AutoComplete-TasksForGalxe)
 
 - 👨‍💻 All of my projects are available at [https://x.com/0xOneiros](https://x.com/0xOneiros)
 
